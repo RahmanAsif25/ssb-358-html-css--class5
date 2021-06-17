@@ -1,0 +1,135 @@
+.heading{
+	color: white;
+	text-align: center;
+	background-image: url(../images/mandala.jpg);
+}
+.adress{
+	display:block;
+ font-style: italic;
+ text-align: center;
+}
+h1{
+	text-align: center;
+
+}
+h2{
+	text-align: center;
+	color: blue;
+	b
+}
+p{
+	text-align: center;
+	margin: 10px;
+	padding: 15px;
+	
+}
+
+.aside{
+	width: 500px;
+	padding: 25px;
+	
+font-style: italic;
+	background-color: lightgray;
+	margin:auto;
+	
+}
+
+.mydiv{
+	background-color: lightblue;
+	border: dotted black;
+
+}
+
+.myfieldset{
+	background-color:darkcyan;
+}
+.legend{
+	background-color: gray;
+	color: white;
+	padding: 5px 10px;
+}
+
+.input{
+	margin: 5px;
+}
+
+.all-browsers{
+	margin: 0;
+	padding: 5px;
+	background-color: lightgray;
+}
+.browser{
+	background-color: white;
+}
+.footer{
+	text-align: center;
+	background-color:orange;
+	color: black;
+}
+
+.myform{
+	display: block;
+	margin-top: auto ;
+	text-align: center;
+}
+.label{
+	background-color: gray;
+}
+.input{
+	background-color: orange;
+}
+
+.header{
+	width: 100%;
+	min-height: 100px;
+	background-color: red;
+	text-align: center;
+	}
+
+	.ol{
+		text-align: center;
+		color: blue;
+	}
+
+	.ul{
+		text-align:center ;
+		color: darkred;
+	}
+
+.main{
+	background-color: lightblue;
+}
+
+.nav{
+	text-align: center;
+	font-size: 20px;
+}
+.p{
+	color:red;
+	font-size:20px;
+	text-align: center;
+}
+.table{
+	border: dotted black;
+	text-align:center;
+	
+}
+
+.thead{
+	color: gray
+	text-align center
+
+}
+.tbody{
+	color: blue
+}
+.tfoot{
+	color: darkred
+}
+
+.video{
+	width: 500px;
+	height:500px;
+	text-align: center;
+	margin-top: 20px;
+}
